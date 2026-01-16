@@ -1,0 +1,1 @@
+The code is for Linux only and I wrote it for educational purposes. compilation : client : clang++ sCliennt.cpp -ludev -linput server: clang++ sServer.cpp You need to download the required libraries: libinput, libudev, boost asio 
